@@ -1,0 +1,44 @@
+body {
+    height: 500px;
+    width: auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    }
+
+table, th, td {
+    border: 1px solid black;
+    border-spacing: 5px;
+    padding: 5px;
+}
+
+.english {
+    color: blue;
+}
+.maths {
+    color: red;
+}
+.physics {
+    color: khaki;
+}
+.chemistry {
+    color: purple
+}
+.biology {
+    color: orange;
+}
+
+.subject {
+    color: rebeccapurple;
+}
+
+.students {
+    color: green;
+}
+
+.serial {
+    color:brown;
+}
+.scores {
+    color: lightgreen;
+}
