@@ -1,1 +1,1 @@
-# A table sample
+# An HTML table sample
